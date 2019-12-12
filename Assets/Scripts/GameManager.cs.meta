@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 7e224b0d90db94e48a17bd739d3708bc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - board: {instanceID: 0}
+  - redFigure: {fileID: 7919563981748451923, guid: 2f7e917b983ca074cb9361c9c4304e3c,
+      type: 3}
+  - blackFigure: {fileID: 1382154040757254079, guid: 41226dd255a22fe4c8e502e34ac0c0e1,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
