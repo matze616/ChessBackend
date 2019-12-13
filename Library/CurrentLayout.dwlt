@@ -113,10 +113,10 @@ MonoBehaviour:
     y: 30
     width: 1536
     height: 731
-  m_MinSize: {x: 917, y: 448}
-  m_MaxSize: {x: 22012, y: 10024}
+  m_MinSize: {x: 911, y: 448}
+  m_MaxSize: {x: 22006, y: 10024}
   vertical: 0
-  controlID: 1085
+  controlID: 12
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -141,7 +141,7 @@ MonoBehaviour:
   m_MinSize: {x: 202, y: 448}
   m_MaxSize: {x: 4002, y: 8048}
   vertical: 1
-  controlID: 1049
+  controlID: 97
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -161,8 +161,8 @@ MonoBehaviour:
     y: 0
     width: 656
     height: 367
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 202, y: 224}
+  m_MaxSize: {x: 4002, y: 4024}
   m_ActualView: {fileID: 13}
   m_Panes:
   - {fileID: 13}
@@ -213,8 +213,8 @@ MonoBehaviour:
     y: 0
     width: 204
     height: 731
-  m_MinSize: {x: 204, y: 224}
-  m_MaxSize: {x: 4004, y: 4024}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 14}
   m_Panes:
   - {fileID: 14}
@@ -265,8 +265,8 @@ MonoBehaviour:
     y: 0
     width: 277
     height: 731
-  m_MinSize: {x: 277, y: 74}
-  m_MaxSize: {x: 4002, y: 4024}
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 16}
   m_Panes:
   - {fileID: 16}
@@ -461,9 +461,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: fa2f0000
+      m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: d4fbffff140c0000
+      m_ExpandedIDs: d4fbffffa20c0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -525,20 +525,20 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Prefabs/Pieces
+    - Assets/Scripts
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Prefabs/Pieces
+  - Assets/Scripts
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\Matthias\Hochschule\Mediale Arbeit\UnityBeispiele\ChessTest
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: bc2c0000
-    m_LastClickedID: 11452
-    m_ExpandedIDs: 00000000a40900000c0a0000620a0000c40a000000ca9a3bffffff7f
+    m_SelectedIDs: 3e0a0000
+    m_LastClickedID: 2622
+    m_ExpandedIDs: 00000000c60900003e0a0000ae0a0000200b000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -566,7 +566,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000a40900000c0a000000ca9a3b
+    m_ExpandedIDs: 00000000c60900003e0a0000ae0a0000200b0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -593,7 +593,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: 
     m_RenameOverlay:
       m_UserAcceptedRename: 0
